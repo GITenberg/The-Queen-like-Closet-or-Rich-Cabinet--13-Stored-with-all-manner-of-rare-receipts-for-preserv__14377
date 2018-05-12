@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5495
     wikipedia: http://en.wikipedia.org/wiki/Hannah_Woolley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14377#The-Queen-like-Closet-or-Rich-Cabinet--13-Stored-with-all-manner-of-rare-receipts-for-preserv_
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2004-12-18'
 gutenberg_type: Text
