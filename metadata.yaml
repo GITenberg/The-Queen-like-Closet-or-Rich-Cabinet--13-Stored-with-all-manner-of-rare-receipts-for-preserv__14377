@@ -1,0 +1,34 @@
+_repo: The-Queen-like-Closet-or-Rich-Cabinet--13-Stored-with-all-manner-of-rare-receipts-for-preserv__14377
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Woolley, Hannah
+    aliases:
+    - Challinor, Hannah
+    - Wolley, Anna
+    - Wolly, Hannah
+    - Wolley, Hannah
+    gutenberg_agent_id: '5495'
+    url: http://www.gutenberg.org/2009/agents/5495
+    wikipedia: http://en.wikipedia.org/wiki/Hannah_Woolley
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2004-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine, Popular -- Early works to 1800'
+- !lcsh 'Cooking, English -- Early works to 1800'
+- !lcc 'TX'
+title: "The Queen-like Closet or Rich Cabinet\r\nStored with all manner of rare receipts\
+  \ for preserving, candying and cookery. Very pleasant and beneficial to all ingenious\
+  \ persons of the female sex"
+url: http://www.gutenberg.org/ebooks/14377
